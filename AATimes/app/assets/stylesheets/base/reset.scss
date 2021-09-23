@@ -52,7 +52,7 @@ input[type="submit"] {
 
 .group:after {
   content: "";
-  display: table;
-  // display: block;
+  // display: table;
+  display: block;
   clear: both;
 }

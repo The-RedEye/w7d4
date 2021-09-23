@@ -6,21 +6,25 @@ html {
 }
 
 body {
-	// ...
+	width: 80%;
+	margin: 0 auto;
+	font-family: serif;
+	font-size: 12px;
+
 }
 
 button {
-	// background-color:
-	// border-color:
-	// color:
-	// font-weight:
-	// padding:
-	// border-radius:
-	// transition:
-	// font-family:
-	// text-transform:
-	// font-size:
-	// text-align:
+	background-color: blueviolet;
+	border-color: blue;
+	color: seashell;
+	font-weight: 23;
+	padding: 2;
+	border-radius: 30;
+	transition: 0.3s;
+	font-family: serif;
+	// text-transform: 
+	font-size: 20;
+	text-align: center;
 }
 
 button:hover {
