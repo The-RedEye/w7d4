@@ -27,6 +27,37 @@ button {
 	text-align: center;
 }
 
+.right-nav {
+	position: absolute;
+	right: 30px;
+	display: flex;
+	// flex-direction: row;
+	
+}
+
+.left-nav {
+	position: absolute;
+	left: 30px;
+	display: flex;
+	// flex-direction: row;
+	
+}
+
+.masthead > ul {
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+
+.right-nav > ul {
+	display: flex;
+	flex-direction: row;
+}
+.left-nav > ul {
+	display: flex;
+	flex-direction: row;
+}
+
 button:hover {
 	// background-color:
 	// border-color:
